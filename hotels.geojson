@@ -1,14 +1,104 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.7671, 35.6812] },
-      "properties": {
-        "id": "test-tokyo-station",
-        "name": "測試點（東京車站）",
-        "note": "管線測試用，正式資料產生後會被覆蓋"
-      }
-    }
-  ]
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140.43251,
+     35.508381
+    ]
+   },
+   "properties": {
+    "name": "THE CLUB 919 DOG FRIENDLY",
+    "description": "九十九里的奢華包棟別墅，有泳池、三溫暖、按摩池和健身房，還有主廚私人晚餐與BBQ。\n\n🎬 [[https://youtu.be/nG7i7K0Ppcc|【ホテル宿泊記】九十九里のラグジュアリーなプライベートヴィラで過ごす大人の休日 ｜ 専属シェフ 専用プール&ジャグジー&サウナ【THE CLUB 919 DOG FRIENDLY】]]\n📺 頻道：[[https://www.youtube.com/channel/UCKhk8Ty9I2AB_bqTUDU2i8Q|大人の休日CH / Luxury Holidays]]（2026-05-16）\n\n📍 千葉県山武郡九十九里町不動堂452-4\n🔗 [[https://theclub919.com|官網]]",
+    "id": "theclub919.com",
+    "name_zh": "THE CLUB 919 DOG FRIENDLY",
+    "prefecture": "千葉県",
+    "area": "九十九里",
+    "address": "千葉県山武郡九十九里町不動堂452-4",
+    "website": "https://theclub919.com",
+    "channels": "大人の休日CH / Luxury Holidays",
+    "videos": [
+     {
+      "video_id": "nG7i7K0Ppcc",
+      "title": "【ホテル宿泊記】九十九里のラグジュアリーなプライベートヴィラで過ごす大人の休日 | 専属シェフ 専用プール&ジャグジー&サウナ【THE CLUB 919 DOG FRIENDLY】",
+      "channel": "大人の休日CH / Luxury Holidays",
+      "published": "2026-05-16",
+      "url": "https://youtu.be/nG7i7K0Ppcc"
+     }
+    ],
+    "geocode_source": "gsi",
+    "geocode_confidence": "high",
+    "updated": "2026-11-23"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     135.778214,
+     35.001877
+    ]
+   },
+   "properties": {
+    "name": "そわか（SOWAKA）",
+    "description": "位於祇園的SLH小型奢華飯店，鄰近八坂神社與花見小路，可步行至清水寺。\n\n🎬 [[https://youtu.be/OAJVQjZo8gc|【ホテル宿泊記】京都旅行、祇園に佇む美しきスモールラグジュアリーホテルで過ごす、大人ひとり旅 ｜ そわか(SOWAKA) Kyoto]]\n📺 頻道：[[https://www.youtube.com/channel/UCKhk8Ty9I2AB_bqTUDU2i8Q|大人の休日CH / Luxury Holidays]]（2026-06-20）\n\n📍 京都府京都市東山区清井町480\n🔗 [[https://www.slhhotels.jp/hotels/sowaka/|官網]]",
+    "id": "slhhotels.jp/hotels/sowaka",
+    "name_zh": "そわか（SOWAKA）",
+    "prefecture": "京都府",
+    "area": "祇園",
+    "address": "京都府京都市東山区清井町480",
+    "website": "https://www.slhhotels.jp/hotels/sowaka/",
+    "channels": "大人の休日CH / Luxury Holidays",
+    "videos": [
+     {
+      "video_id": "OAJVQjZo8gc",
+      "title": "【ホテル宿泊記】京都旅行、祇園に佇む美しきスモールラグジュアリーホテルで過ごす、大人ひとり旅 | そわか(SOWAKA) Kyoto",
+      "channel": "大人の休日CH / Luxury Holidays",
+      "published": "2026-06-20",
+      "url": "https://youtu.be/OAJVQjZo8gc"
+     }
+    ],
+    "geocode_source": "gsi",
+    "geocode_confidence": "high",
+    "updated": "2026-11-23"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.800659,
+     34.964218
+    ]
+   },
+   "properties": {
+    "name": "富士青藍",
+    "description": "全5室150㎡以上套房，皆附露天風呂與私人桑拿，可眺望富士山、駿河灣與夕陽。\n\n🎬 [[https://youtu.be/T_V_DylX-dI?t=1668|【穴場】観光客が少ない小さな港町にある絶景露天風呂&サウナ付きの高級温泉宿に泊まってみた ｜ 静岡県伊豆半島「富士青藍」]]\n📺 頻道：[[https://www.youtube.com/channel/UCaLPXMxtXyBvjKqMPz1ewrQ|わた旅]]（2026-04-10）\n\n📍 静岡県沼津市戸田3878-61\n🔗 [[https://www.fujiseiran.jp/|官網]]\n🗺️ [[https://maps.app.goo.gl/ktmBLfgxPz3ENbbWA?g_st=ic|Google Maps（頻道主提供）]]\n⚠️ 位置精度：low（gsi）",
+    "id": "fujiseiran.jp",
+    "name_zh": "富士青藍",
+    "prefecture": "静岡県",
+    "area": "戸田",
+    "address": "静岡県沼津市戸田3878-61",
+    "website": "https://www.fujiseiran.jp/",
+    "channels": "わた旅",
+    "videos": [
+     {
+      "video_id": "T_V_DylX-dI",
+      "title": "【穴場】観光客が少ない小さな港町にある絶景露天風呂&サウナ付きの高級温泉宿に泊まってみた | 静岡県伊豆半島「富士青藍」",
+      "channel": "わた旅",
+      "published": "2026-04-10",
+      "url": "https://youtu.be/T_V_DylX-dI?t=1668"
+     }
+    ],
+    "geocode_source": "gsi",
+    "geocode_confidence": "low",
+    "updated": "2026-11-23"
+   }
+  }
+ ]
 }
