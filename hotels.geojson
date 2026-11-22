@@ -1,0 +1,14 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.7671, 35.6812] },
+      "properties": {
+        "id": "test-tokyo-station",
+        "name": "測試點（東京車站）",
+        "note": "管線測試用，正式資料產生後會被覆蓋"
+      }
+    }
+  ]
+}
