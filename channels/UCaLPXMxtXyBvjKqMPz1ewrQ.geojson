@@ -1,0 +1,38 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.800659,
+     34.964218
+    ]
+   },
+   "properties": {
+    "name": "富士青藍",
+    "description": "全5室150㎡以上套房，皆附露天風呂與私人桑拿，可眺望富士山、駿河灣與夕陽。\n\n🎬 [[https://youtu.be/T_V_DylX-dI?t=1668|【穴場】観光客が少ない小さな港町にある絶景露天風呂&サウナ付きの高級温泉宿に泊まってみた ｜ 静岡県伊豆半島「富士青藍」]]\n📺 頻道：[[https://www.youtube.com/channel/UCaLPXMxtXyBvjKqMPz1ewrQ|わた旅]]（2026-04-10）\n\n📍 静岡県沼津市戸田3878-61\n🔗 [[https://www.fujiseiran.jp/|官網]]\n🗺️ [[https://maps.app.goo.gl/ktmBLfgxPz3ENbbWA?g_st=ic|Google Maps（頻道主提供）]]\n⚠️ 位置精度：low（gsi）",
+    "id": "fujiseiran.jp",
+    "name_zh": "富士青藍",
+    "prefecture": "静岡県",
+    "area": "戸田",
+    "address": "静岡県沼津市戸田3878-61",
+    "website": "https://www.fujiseiran.jp/",
+    "channels": "わた旅",
+    "videos": [
+     {
+      "video_id": "T_V_DylX-dI",
+      "title": "【穴場】観光客が少ない小さな港町にある絶景露天風呂&サウナ付きの高級温泉宿に泊まってみた | 静岡県伊豆半島「富士青藍」",
+      "channel": "わた旅",
+      "published": "2026-04-10",
+      "url": "https://youtu.be/T_V_DylX-dI?t=1668"
+     }
+    ],
+    "geocode_source": "gsi",
+    "geocode_confidence": "low",
+    "updated": "2026-11-23"
+   }
+  }
+ ]
+}

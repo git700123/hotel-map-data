@@ -1,0 +1,16 @@
+[
+ {
+  "channel": "わた旅",
+  "channel_id": "UCaLPXMxtXyBvjKqMPz1ewrQ",
+  "channel_url": "https://www.youtube.com/channel/UCaLPXMxtXyBvjKqMPz1ewrQ",
+  "file": "channels/UCaLPXMxtXyBvjKqMPz1ewrQ.geojson",
+  "hotels": 1
+ },
+ {
+  "channel": "大人の休日CH / Luxury Holidays",
+  "channel_id": "UCKhk8Ty9I2AB_bqTUDU2i8Q",
+  "channel_url": "https://www.youtube.com/channel/UCKhk8Ty9I2AB_bqTUDU2i8Q",
+  "file": "channels/UCKhk8Ty9I2AB_bqTUDU2i8Q.geojson",
+  "hotels": 2
+ }
+]
