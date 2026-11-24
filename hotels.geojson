@@ -99,6 +99,39 @@
     "geocode_confidence": "low",
     "updated": "2026-11-23"
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.733568,
+     35.630665
+    ]
+   },
+   "properties": {
+    "name": "Grand Prince Hotel New Takanawa",
+    "description": "**新高輪格蘭王子大飯店**\n村野藤吾設計的1982年現代主義名作，有白浪般的半圓陽台，預計2027年3月拆除。\n\n🎬 [[https://youtu.be/B7C_qhsVong|［4K POV］ 5-Min from Shinagawa Sta.! Balcony Room & Japanese Garden — Grand Prince Hotel New Takanawa]]\n📺 頻道：[[https://www.youtube.com/channel/UCmk6QS9q8xQvxHoup-5tQig|SUKIYAKI TRAVEL JAPAN]]（2026-02-01）\n\n🛏️ [[https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1955343&hid=85|訂房連結（頻道主提供）]]\n⚠️ 位置精度：medium（nominatim）",
+    "id": "name:grandprincehotelnewtakanawa",
+    "name_zh": "新高輪格蘭王子大飯店",
+    "prefecture": "東京都",
+    "area": "高輪",
+    "address": null,
+    "website": "",
+    "channels": "SUKIYAKI TRAVEL JAPAN",
+    "videos": [
+     {
+      "video_id": "B7C_qhsVong",
+      "title": "[4K POV] 5-Min from Shinagawa Sta.! Balcony Room & Japanese Garden — Grand Prince Hotel New Takanawa",
+      "channel": "SUKIYAKI TRAVEL JAPAN",
+      "published": "2026-02-01",
+      "url": "https://youtu.be/B7C_qhsVong"
+     }
+    ],
+    "geocode_source": "nominatim",
+    "geocode_confidence": "medium",
+    "updated": "2026-11-24"
+   }
   }
  ]
 }

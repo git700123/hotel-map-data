@@ -7,7 +7,8 @@
 
 | 圖層 | 旅館數 | uMap 遠端資料網址 |
 |---|---|---|
-| 全部 | 3 | `https://raw.githubusercontent.com/git700123/hotel-map-data/main/hotels.geojson` |
+| 全部 | 4 | `https://raw.githubusercontent.com/git700123/hotel-map-data/main/hotels.geojson` |
+| [SUKIYAKI TRAVEL JAPAN](https://www.youtube.com/channel/UCmk6QS9q8xQvxHoup-5tQig) | 1 | `https://raw.githubusercontent.com/git700123/hotel-map-data/main/channels/UCmk6QS9q8xQvxHoup-5tQig.geojson` |
 | [わた旅](https://www.youtube.com/channel/UCaLPXMxtXyBvjKqMPz1ewrQ) | 1 | `https://raw.githubusercontent.com/git700123/hotel-map-data/main/channels/UCaLPXMxtXyBvjKqMPz1ewrQ.geojson` |
 | [大人の休日CH / Luxury Holidays](https://www.youtube.com/channel/UCKhk8Ty9I2AB_bqTUDU2i8Q) | 2 | `https://raw.githubusercontent.com/git700123/hotel-map-data/main/channels/UCKhk8Ty9I2AB_bqTUDU2i8Q.geojson` |
 
